@@ -1,0 +1,6 @@
+{
+  "appId": "com.RZQ.canadaimmigration",
+  "appName": "CanImmi Operations",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,14 @@
+apply plugin: 'com.android.application'
+
+android {
+    namespace "com.RZQ.canadaimmigration"
+    compileSdkVersion 34
+    
+    defaultConfig {
+        applicationId "com.RZQ.canadaimmigration"
+        minSdkVersion 22
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0.0"
+    }
+}

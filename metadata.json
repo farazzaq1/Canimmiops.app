@@ -1,0 +1,7 @@
+{
+  "name": "Canada Immigration & Border Tech Dashboard",
+  "applicationId": "com.RZQ.canadaimmigration",
+  "description": "A centralized operations hub and compliance workbook for aggregating Canadian immigration feeds, provincial nomination updates, border status, and drafting government agency proposals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
